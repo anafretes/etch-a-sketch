@@ -1,1 +1,8 @@
-
+.gridContainer {
+  display: grid;
+  border: solid;
+  border-color: red;
+  border-width: medium;
+  width: 500px;
+  height: 500px;
+}
