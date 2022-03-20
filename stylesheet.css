@@ -1,8 +1,12 @@
+
 .gridContainer {
   display: grid;
-  border: solid;
-  border-color: red;
-  border-width: medium;
+  border: 1px red solid;
   width: 500px;
-  height: 500px;
+  height: 50vh;
+}
+
+.gridElement {
+  border: 1px blue solid;
+
 }
