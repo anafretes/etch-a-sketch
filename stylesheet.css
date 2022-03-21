@@ -1,12 +1,12 @@
 
 .gridContainer {
   display: grid;
-  border: 1px red solid;
+  border: 1px black solid;
   width: 500px;
   height: 50vh;
 }
 
 .gridElement {
-  border: 1px blue solid;
+  border: 1px grey solid;
 
 }
